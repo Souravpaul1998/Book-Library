@@ -42,7 +42,7 @@ input[type="text"] {
 }
 
 button {
-    background-color: #1e90ff;
+    background: linear-gradient(45deg, #2920a7, #c0392b);
     color: white;
     padding: 0.5rem 0.8rem;
     font-size: 16px;
@@ -164,7 +164,7 @@ button:hover {
 .book div a {
     font-size: 14px;
     text-decoration: none;
-    background-color: #1e90ff;
+    background: linear-gradient(45deg, #2920a7, #acce24);
     color: #fff;
     font-weight: 600;
     padding: 0.4rem 0.8rem;
